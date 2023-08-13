@@ -30,3 +30,4 @@ public class Main {
                 station.check(null, null, truck2);
     }
 }
+//тест
